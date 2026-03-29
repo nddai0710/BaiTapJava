@@ -14,6 +14,12 @@ public class EmployeeList extends ArrayList<Employee> {
     }
 
     public Employee checkLogin(String id, String pass) {
+
+        System.out.println("DEBUG: Dang co " + this.size() + " nhan vien trong List.");
+        for(Employee e : this) {
+            System.out.println("DEBUG: Check ID " + e.getId() + " - PassFile: " + e.getPassword());
+        }
+
         String passMD5 = Validation.getMd5(pass);
         for (Employee e : this) {
             if (e.getId().equalsIgnoreCase(id) && e.getPassword().equals(passMD5)) {

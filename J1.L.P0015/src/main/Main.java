@@ -12,7 +12,7 @@ public class Main {
             if (role == 1) { // Manager
                 menuManager(app);
             } else if (role == 2) { // Employee
-                System.out.println("Employee function is under construction!");
+                menuEmployee(app);
             } else {
                 if (Validation.getString("Do you want to exit (Y/N)? ").equalsIgnoreCase("Y")) break;
             }
@@ -37,6 +37,27 @@ public class Main {
                 case 4: app.approveRequest(); break;
                 case 5: app.showBorrow(); break;
                 case 6: return;
+            }
+        }
+    }
+
+    public static void menuEmployee(AssetManagerment app) {
+        while (true) {
+            System.out.println("\n--- EMPLOYEE MENU ---");
+            System.out.println("1. Search Asset");
+            System.out.println("2. Borrow Asset");  // Lab 3
+            System.out.println("3. Cancel Request"); // Lab 3
+            System.out.println("4. Return Asset");   // Lab 3
+            System.out.println("5. Logout");
+
+            int c = Validation.getInt("Choose: ");
+            switch (c) {
+                case 1: app.searchAsset(); break;
+                case 2: app.borrowAsset(); break;
+                case 3: app.cancelRequest(); break;
+                case 4: app.returnAsset(); break;
+                case 5: return;
+                default: System.out.println("Invalid choice!");
             }
         }
     }

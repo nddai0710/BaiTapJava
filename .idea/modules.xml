@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BaiTapJava.iml" filepath="$PROJECT_DIR$/.idea/BaiTapJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0013/J1.L.P0013.iml" filepath="$PROJECT_DIR$/J1.L.P0013/J1.L.P0013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0014/J1.L.P0014.iml" filepath="$PROJECT_DIR$/J1.L.P0014/J1.L.P0014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0015/J1.L.P0015.iml" filepath="$PROJECT_DIR$/J1.L.P0015/J1.L.P0015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0021/J1.L.P0021.iml" filepath="$PROJECT_DIR$/J1.L.P0021/J1.L.P0021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0022/J1.L.P0022.iml" filepath="$PROJECT_DIR$/J1.L.P0022/J1.L.P0022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0023/J1.L.P0023.iml" filepath="$PROJECT_DIR$/J1.L.P0023/J1.L.P0023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.L.P0025/J1.L.P0025.iml" filepath="$PROJECT_DIR$/J1.L.P0025/J1.L.P0025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/J1.L.P0025.main.iml" filepath="$PROJECT_DIR$/.idea/modules/J1.L.P0025.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/J1.L.P0025.test.iml" filepath="$PROJECT_DIR$/.idea/modules/J1.L.P0025.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.S.P0001/J1.S.P0001.iml" filepath="$PROJECT_DIR$/J1.S.P0001/J1.S.P0001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.S.P0003/J1.S.P0003.iml" filepath="$PROJECT_DIR$/J1.S.P0003/J1.S.P0003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J1.S.P0004/J1.S.P0004.iml" filepath="$PROJECT_DIR$/J1.S.P0004/J1.S.P0004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0021/P0021.iml" filepath="$PROJECT_DIR$/P0021/P0021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1.S.P0002/P1.S.P0002.iml" filepath="$PROJECT_DIR$/P1.S.P0002/P1.S.P0002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1.S.P0005/P1.S.P0005.iml" filepath="$PROJECT_DIR$/P1.S.P0005/P1.S.P0005.iml" />
+    </modules>
+  </component>
+</project>

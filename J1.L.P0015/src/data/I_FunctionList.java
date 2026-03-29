@@ -7,4 +7,8 @@ public interface I_FunctionList {
     void updateAsset();
     void approveRequest();
     void showBorrow();
+
+    void borrowAsset();
+    void cancelRequest();
+    void returnAsset();
 }

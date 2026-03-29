@@ -81,7 +81,7 @@ public class Validation {
             byte[] messageDigest = md.digest(input.getBytes());
             StringBuilder sb = new StringBuilder();
             for (byte b : messageDigest) {
-                sb.append(String.format("%02X", b));
+                sb.append(String.format("%02x", b));
             }
             return sb.toString();
         }catch (Exception e){
